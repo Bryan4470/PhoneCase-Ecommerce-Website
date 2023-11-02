@@ -4,8 +4,8 @@ Please run website in Microsoft Edge / Firefox. Chrome might not display correct
 
 1) Extract zip folder to XAMPP > htdocs folder
 2) Start Apache and MySQL in XAMPP
-3) navigate to localhost/PhoneCase-Ecommerce-Website-master/php/insertproduct.php to insert necessary data into database
-4) navigate to localhost/PhoneCase-Ecommerce-Website-master to view website
+3) navigate to localhost/PhoneCase-Ecommerce-Website-master/php/insertproduct.php in browser to insert necessary data into database
+4) navigate to localhost/PhoneCase-Ecommerce-Website-master in browser to view website
 
 
 
