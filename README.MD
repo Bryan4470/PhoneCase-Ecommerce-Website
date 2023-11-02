@@ -1,6 +1,6 @@
 How to run in XAMPP? 
 
-Please run in Microsoft Edge / Firefox. Chrome might not display correctly due to bug
+Please run website in Microsoft Edge / Firefox. Chrome might not display correctly due to bug
 
 1) Extract zip folder to XAMPP > htdocs folder
 2) Start Apache and MySQL in XAMPP
